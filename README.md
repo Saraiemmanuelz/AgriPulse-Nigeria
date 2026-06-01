@@ -213,6 +213,44 @@ National agricultural performance snapshot.
 
 ---
 
+## 📊 Key DAX Measures
+
+### Average Area
+
+```DAX
+Avg Area = AVERAGE('Raw Data'[Area_Planted_ha])
+```
+
+### Average Net Income
+
+```DAX
+Avg Net Income = AVERAGE('Raw Data'[Net_Income_NGN])
+```
+
+### Profit Margin %
+
+```DAX
+Profit Margin % = 
+DIVIDE(
+    SUM('Raw Data'[Net_Income_NGN]),
+    SUM('Raw Data'[Revenue_NGN]),
+    0
+)
+---
+### Total Revenue
+
+```DAX
+Total Revenue = 
+SUM('Raw Data'[Revenue_NGN])
+```
+
+### Total Production
+
+```DAX
+Total Production = 
+SUM('Raw Data'[Production_t])
+```
+
 ## 🔗 Data Model
 
 This project uses a relational data model to connect raw agricultural survey data with seasonal, crop-level, and state-level analysis tables for efficient reporting and insights generation.
