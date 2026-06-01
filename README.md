@@ -216,19 +216,19 @@ National agricultural performance snapshot.
 
 ## 📊 Key DAX Measures
 
-### Average Area
+### 🌾Average Area
 
 ```DAX
-🌾Avg Area = AVERAGE('Raw Data'[Area_Planted_ha])
+Avg Area = AVERAGE('Raw Data'[Area_Planted_ha])
 ```
 
-### Average Net Income
+### 💰Average Net Income
 
 ```DAX
 Avg Net Income = AVERAGE('Raw Data'[Net_Income_NGN])
 ```
 
-### Profit Margin %
+### 📉 Profit Margin %
 
 ```DAX
 Profit Margin % = 
@@ -239,15 +239,14 @@ DIVIDE(
 )
 ```
 
-
-### Total Revenue
+### 💵Total Revenue
 
 ```DAX
 Total Revenue = 
 SUM('Raw Data'[Revenue_NGN])
 ```
 
-### Total Production
+### 🌽Total Production
 
 ```DAX
 Total Production = 
