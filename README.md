@@ -62,7 +62,7 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 ### Page 5 — Farmer Profile & Technology Adoption
 
-![Farmer Profile](Farmers%20Profile%20ans%20Technology%20Analysis%20.jpeg)
+![Farmer Profile & Technology Adoption](Farmers%20Profile%20ans%20Technology%20Analysis%20.jpeg)
 
 ---
 
