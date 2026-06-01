@@ -48,7 +48,7 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 ![National Overview](National%20Overview%20.jpeg)
 
---
+---
 
 ### Page 2 — Crop Profitability & Yield Analysis
 
