@@ -220,21 +220,20 @@ AgriPulse-Nigeria/
 │
 ├── README.md
 ├── LICENSE
-├── AgriPulse_Nigeria.pbix
 │
 ├── assets/
 │   ├── screenshots/
-│   │   ├── 01_overview_dashboard.png
-│   │   ├── 02_crop_analysis.png
-│   │   ├── 03_state_performance.png
-│   │   ├── 04_seasonal_insights.png
-│   │   └── 05_farmer_profile.png
+│   │   ├── national_overview_dashboard.jpeg
+│   │   ├── crop_analysis.jpeg
+│   │   ├── state_performance.jpeg
+│   │   ├── seasonal_insights.jpeg
+│   │   └── farmer_profile.jpeg
 │   │
 │   └── logo/
 │       └── agripulse_logo.png
 │
 ├── data/
-│   └── NASS_2023_Crop_Production.csv
+│   └── NASS_2023_Crop_Production.xlsx
 │
 ├── docs/
 │   └── AgriPulse_Nigeria_Report.pdf
