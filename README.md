@@ -213,6 +213,14 @@ National agricultural performance snapshot.
 
 ---
 
+## 🔗 Data Model
+
+This project uses a relational data model to connect raw agricultural survey data with seasonal, crop-level, and state-level analysis tables for efficient reporting and insights generation.
+
+![Data Model](data-model.jpeg)
+
+---
+
 # 📂 Project Structure
 
 ```text
