@@ -44,25 +44,25 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 ### Page 2 — Crop Performance & Profitability
 
-![Crop Analysis](assets/screenshots/02_crop_analysis.png)
+![Crop Analysis](Crop%20Performance%20and%20profitability%20.jpeg)
 
 ---
 
 ### Page 3 — State-Level Agricultural Analysis
 
-![State Performance](assets/screenshots/03_state_performance.png)
+![State Performance](Nigeria%20State%20Analysis.jpej)
 
 ---
 
 ### Page 4 — Seasonal Insights
 
-![Seasonal Insights](assets/screenshots/04_seasonal_insights.png)
+![Seasonal Insights](Seasonal%20Insight.jpeg)
 
 ---
 
 ### Page 5 — Farmer Profile & Technology Adoption
 
-![Farmer Profile](assets/screenshots/05_farmer_profile.png)
+![Farmer Profile](Farmers%20Profile%20ans%20Technology%20Analysis%20.jpeg)
 
 ---
 
@@ -236,35 +236,7 @@ AgriPulse-Nigeria/
 │
 └── model/
     └── data_model.png
-```
 
----
-
-# 🚀 How to Use
-
-## View Dashboard
-
-Browse screenshots inside:
-
-```text
-/assets/screenshots
-```
-
-## Open Power BI Report
-
-1. Download Power BI Desktop
-2. Open `AgriPulse_Nigeria.pbix`
-3. Explore filters and visuals
-
-## Explore Dataset
-
-Open CSV using:
-
-* Excel
-* Power BI
-* Python
-
----
 
 # 👤 Author
 
