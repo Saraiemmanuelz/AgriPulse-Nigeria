@@ -34,10 +34,10 @@ This project demonstrates applied skills across the complete analytics workflow:
 
   
 ### 🔎 Analytical Questions Driving This Project
-✔ Which crops are most productive and profitable in Nigeria?
-✔ How does agricultural output vary across states and regions?
-✔ What is the impact of seasonality on yield and revenue?
-✔ How do farmer demographics and technology adoption affect income?
+* Which crops are most productive and profitable in Nigeria?
+* How does agricultural output vary across states and regions?
+* What is the impact of seasonality on yield and revenue?
+* How do farmer demographics and technology adoption affect income?
 
 
 ---
@@ -50,7 +50,7 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 --
 
-### Page 2 — Crop Performance & Profitability
+### Page 2 — Crop Profitability & Yield Analysis
 
 ![Crop Performance](<Crop-Analysis.jpeg>)
 
@@ -62,7 +62,7 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 ---
 
-### Page 4 — Seasonal Insights
+### Page 4 — Seasonal Productivity Impact Analysis
 
 ![Seasonal Insights](Seasonal%20Insight.jpeg)
 
