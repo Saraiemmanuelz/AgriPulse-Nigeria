@@ -44,7 +44,7 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 ### Page 2 — Crop Performance & Profitability
 
-![Crop Performane and profitability](Crop%20Performane%20and%20profitabilty%20.jpeg)
+![Crop Performance](<Crop Performane and profitabilty .jpeg>)
 
 ---
 
