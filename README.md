@@ -213,14 +213,13 @@ National agricultural performance snapshot.
 
 ---
 
-## 📊 Key DAX Measures
 
 ## 📊 Key DAX Measures
 
 ### Average Area
 
 ```DAX
-Avg Area = AVERAGE('Raw Data'[Area_Planted_ha])
+🌾Avg Area = AVERAGE('Raw Data'[Area_Planted_ha])
 ```
 
 ### Average Net Income
@@ -253,6 +252,8 @@ SUM('Raw Data'[Revenue_NGN])
 ```DAX
 Total Production = 
 SUM('Raw Data'[Production_t])
+
+
 ```
 
 ## 🔗 Data Model
