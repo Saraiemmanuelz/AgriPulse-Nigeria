@@ -44,13 +44,13 @@ This project demonstrates applied skills across the complete analytics workflow:
 
 ### Page 2 — Crop Performance & Profitability
 
-![Crop Performance and profitability](Crop%20Performance%20and%20profitability%20.jpeg)
+![Crop Performane and profitability](Crop%20Performane%20and%20profitability%20.jpeg)
 
 ---
 
 ### Page 3 — State-Level Agricultural Analysis
 
-![State Performance](Nigeria%20State%20Analysis.jpej)
+![Nigeria State Level Analysis](Nigeria%20State%20Level%20Analysis.jpej)
 
 ---
 
