@@ -233,10 +233,8 @@ AgriPulse-Nigeria/
 │       └── agripulse_logo.png
 │
 ├── data/
-│   └── NASS_2023_Crop_Production.xlsx
+│   └── NASS_2023_Nigeria_AgriDataset1.xlsx
 │
-├── docs/
-│   └── AgriPulse_Nigeria_Report.pdf
 │
 ├── dax/
 │   └── measures.txt
