@@ -235,8 +235,7 @@ Profit Margin % =
 DIVIDE(
     SUM('Raw Data'[Net_Income_NGN]),
     SUM('Raw Data'[Revenue_NGN]),
-    0
-)
+    0)
 ```
 
 ### 💵Total Revenue
@@ -251,9 +250,9 @@ SUM('Raw Data'[Revenue_NGN])
 ```DAX
 Total Production = 
 SUM('Raw Data'[Production_t])
-
-
 ```
+
+---
 
 ## 🔗 Data Model
 
